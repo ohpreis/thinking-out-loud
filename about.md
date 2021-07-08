@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi,
 My name is Oscar, and on the net, I sometimes can be found under 
-the pseudo-name __integer__ or __OHP__. 
+the pseudo-name **integer** or **OHP**. 
 It depends on where in the vastness of the www-sphere you see me.
 
 Well, that's all for now. Perhaps another time, I will elaborate 
